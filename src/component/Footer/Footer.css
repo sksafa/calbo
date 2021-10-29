@@ -1,0 +1,23 @@
+.footerSection{
+    /* height: 300px; */
+}
+.customIcon{
+    margin-left: 45px;
+}
+.customIcon p{
+    height: 60px;
+    width: 60px;
+    background-color: aqua;
+    color: #056161;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 50%;
+}
+.customIcon p:hover{
+    background-color: #103b39;
+}
+.iconStyle{
+    color: brown;
+    font-size: 30px;
+    margin-top: 7px;
+}
